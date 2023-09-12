@@ -2439,7 +2439,7 @@ case 'bott': case 'bot?': case 'list': case 'menu': case 'bot': case '?': {
 🔰 Owner :ẉZassTdr.to/VCJ
 🔰 Name : ${pushname}
 🔰 Number : wa.me/${me.split("@")[0]}
-🔰 Runing : Panel
+🔰 Runing : Replit
 🔰 Version : last update
 ✬✬✬✬✬✬✬✬✬✬✬✬✬✬✬✬✬✬✬
 ʙᴏᴛ ɪɴɪ ᴍᴀꜱɪ ᴅɪ ᴛᴀʜᴀᴘ ᴘᴇᴍʙᴀʀᴜᴀɴ ᴊᴀᴅɪ
@@ -2467,7 +2467,7 @@ case 'bott': case 'bot?': case 'list': case 'menu': case 'bot': case '?': {
 ⪩ ۟ 🔮̸̷̵ ۪ ۟𝄪 ׅ*ᴀɴᴛɪᴍᴇɴᴜ*
 ⪩ ۟ 🔮̸̷̵ ۪ ۟𝄪 ׅ*ᴘᴜꜱʜᴍᴇɴᴜ*
 ╔═══《 *ᥴ᥅ꫀꪖꪻꪮ᥅* 》═══⊱
-╠❏ ᴢᴀꜱꜱᴠᴄᴊ ᴏꜰꜰɪᴄɪᴀʟ
+╠❏ who x?
 ╚════[ ᄃﾘﾑﾑ ]══════`
             let ments = [ownernya, me, mark]        
            vaniBotInc.sendMessage(from, { 
