@@ -24,27 +24,27 @@ global.APIKeys = {
 }
 
 //owmner v card
-global.owner = ['6282218876020'] //ur owner number
-global.ownernomer = "6282218876020" //ur owner number2
-global.ownername = "ZassOFC" //ur owner name
-global.ytname = "@zassofficiall" //ur yt chanel name
-global.socialm = "jgn spam owner njg" //ur github or insta name
-global.location = "Kalimantan Selatan, Indonesia " //ur location
+global.owner = ['6281230690468'] //ur owner number
+global.ownernomer = "6281230690468" //ur owner number2
+global.ownername = "xf4isal" //ur owner name
+global.ytname = "@xf4isal" //ur yt chanel name
+global.socialm = "xf4isal_" //ur github or insta name
+global.location = "Malang, Jaim, Indonesia " //ur location
 
 //new
-global.botname = "Vani ✆"
-global.ownernumber = '6282218876020'
-global.ownername = '6282218876020'
-global.ownerNumber = ["6282218876020@s.whatsapp.net"]
-global.ownerweb = "https://www.youtube.com/@zassofficiall"
+global.botname = "X ✆"
+global.ownernumber = '6281230690468'
+global.ownername = '6281230690468'
+global.ownerNumber = ["6281230690468@s.whatsapp.net"]
+global.ownerweb = "https://www.youtube.com/@xf4isal"
 global.websitex = "https://Bakso kontol"
-global.wagc = "https://chat.whatsapp.com/LhUK5CDEFjSLXjSIAqzLXG"
+global.wagc = "https://chat.whatsapp.com/HQeX05ySigR5aUFb53CECE"
 global.themeemoji = '🚩'
-global.wm = "Vani"
-global.botscript = 'kamu nanyeak escehnya?' //script link
-global.packname = "Vani"
-global.author = "Vani"
-global.creator = "6282218876020@s.whatsapp.net"
+global.wm = "faisx"
+global.botscript = 'waah taek minta sc jink nih https://github.com/xf4isal/xf4isalmd' //script link
+global.packname = "X-Media MD"
+global.author = "X-TJKT"
+global.creator = "6281230690468@s.whatsapp.net"
 global.prefa = ['','!','.','#','&']
 global.hituet = 0
 
